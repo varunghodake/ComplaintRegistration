@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">  Complaint Registration For Hostel</string>
+    <string-array name="Hostel">
+
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+
+    <string-array name="About">
+
+        <item>Electricity</item>
+        <item>Water</item>
+        <item>Mess</item>
+        <item>Washroom</item>
+        <item>Room Cleaning</item>
+        <item>Drinking Water</item>
+        <item>Other</item>
+    </string-array>
+</resources>
